@@ -1,0 +1,17 @@
+{
+    "name": "Mr Coxall - Test Coder Image",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mads-hartmann.bash-ide-vscode",
+                "dbaeumer.vscode-eslint",
+                "EditorConfig.EditorConfig"
+            ]
+        }
+    }
+}
