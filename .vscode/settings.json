@@ -35,8 +35,7 @@
     "terminal.integrated.fontSize": 20,
     "terminal.integrated.mouseWheelZoom": true,
     "terminal.integrated.rightClickBehavior": "copyPaste",
-    "workbench.colorTheme": "GitHub Dark Default",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio Dark",
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
     "zenMode.hideLineNumbers": false
