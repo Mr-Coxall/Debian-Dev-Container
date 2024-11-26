@@ -6,4 +6,8 @@ RUN apt-get update \
 	git \
 	sudo \
 	wget \
+        default-jdk \
+	python3 \
+        python-is-python3 \
+	build-essential \
 	&& rm -rf /var/lib/apt/lists/*
