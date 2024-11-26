@@ -8,8 +8,4 @@ RUN apt-get update \
     sudo \
     wget \
 	nano \
-    default-jdk \
-    python3 \
-    python-is-python3 \
-    build-essential \
     && rm -rf /var/lib/apt/lists/*
