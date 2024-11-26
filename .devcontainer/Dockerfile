@@ -6,6 +6,7 @@ RUN apt-get update \
     git \
     sudo \
     wget \
+	nano \
     default-jdk \
     python3 \
     python-is-python3 \
