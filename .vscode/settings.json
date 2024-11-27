@@ -46,6 +46,7 @@
     "files.autoSaveDelay": 1000,
     "files.eol": "\n",
     "json.format.enable": true,
+    "security.workspace.trust.enabled":"false",
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.defaultLocation": "editor",
     "terminal.integrated.fontSize": 20,
